@@ -4,5 +4,3 @@ plotly
 openpyxl
 xlsxwriter
 fpdf
-SQLAlchemy
-pymysql
