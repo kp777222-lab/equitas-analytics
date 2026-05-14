@@ -3,4 +3,4 @@ pandas
 plotly
 openpyxl
 xlsxwriter
-fpdf
+fpdf2
