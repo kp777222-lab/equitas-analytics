@@ -3,4 +3,3 @@ pandas
 plotly
 openpyxl
 xlsxwriter
-fpdf2
